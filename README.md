@@ -1,6 +1,6 @@
 ## Hi, I'm Weston Rauschuber! 👋
 
-### Research Analyst @ NFL Next Gen Stats | Sports Analytics | Data Analysis & Visualization
+### Business/Sports Analytics 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wes-rauschuber/) [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wrauschuber)
 
@@ -8,9 +8,11 @@
 
 ### About Me
 
-I'm a sports analytics professional with experience at the NFL's Next Gen Stats team, where I worked on analytics dashboards, broadcast research, and data-driven storytelling. I graduated from the University of Iowa's Tippie College of Business in May 2024 with a B.B.A. in Business Analytics and Information Systems and a Minor in Sport and Recreation Management.
-
-My work sits at the intersection of football, data, and communication — pulling insights from complex datasets and translating them into clear, actionable findings for research, production, and broadcast teams.
+Data analyst with hands-on experience in a production-level analytics environment. I recently wrapped up a role with the NFL's Next Gen Stats team, where I analyzed data, built dashboards, and contributed to research used across multiple teams.
+ 
+I hold a B.B.A. in Business Analytics and Information Systems from the University of Iowa, where I built a strong foundation in data analysis, modeling, and visualization.
+ 
+I'm focused on continuing to grow my skill set while applying data to solve practical business problems.
 
 ---
 
